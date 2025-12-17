@@ -55,6 +55,9 @@ The goal of this project is to analyze customer shopping behavior and uncover in
   - Filters and slicers for dynamic exploration
 - Designed visuals for non-technical stakeholders
 
+- <img width="2746" height="1648" alt="image" src="https://github.com/user-attachments/assets/9c7014b1-ac6f-4045-a1d2-25aebe215a2a" />
+
+
 ---
 
 ### 4. Reporting & Business Recommendations
