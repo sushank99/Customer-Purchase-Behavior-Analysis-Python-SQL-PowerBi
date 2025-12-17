@@ -1,2 +1,104 @@
-# Customer-Purchase-Behavior-Analysis-Python-SQL-PowerBi
-Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI. 
+# Customer Behavior Analysis – End-to-End Data Analytics Project
+
+This project showcases a complete, industry-standard end-to-end data analytics workflow, replicating how data analysts operate in real business environments. The objective is to transform raw customer transaction data into actionable business insights using Python, SQL, and Power BI.
+
+This repository demonstrates hands-on experience in data preparation, SQL-based analysis, dashboard development, and business-focused reporting.
+
+---
+
+## Project Objective
+
+The goal of this project is to analyze customer shopping behavior and uncover insights related to:
+
+- Customer segmentation (New, Returning, Loyal)
+- Purchasing patterns across product categories
+- Impact of discounts on customer purchases
+- Effect of shipping methods on order value
+- Key drivers of customer loyalty and revenue
+
+---
+
+## End-to-End Workflow
+
+### 1. Data Preparation & Exploratory Data Analysis (Python)
+- Imported and explored raw customer behavior data
+- Cleaned missing and inconsistent values
+- Performed exploratory data analysis to understand trends and distributions
+- Prepared analysis-ready datasets
+
+**Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+### 2. Data Analysis & Business Queries (SQL)
+- Loaded cleaned data into a relational database (PostgreSQL / MySQL)
+- Wrote optimized SQL queries using:
+  - Aggregations
+  - CASE statements
+  - Window functions
+  - Common Table Expressions (CTEs)
+
+**Key Insights Extracted:**
+- Customer segmentation based on purchase frequency
+- Top-performing products per category
+- Discount effectiveness on sales volume
+- Shipping type impact on average purchase amount
+
+---
+
+### 3. Visualization & Dashboarding (Power BI)
+- Connected SQL database directly to Power BI
+- Built an interactive dashboard with:
+  - KPI cards
+  - Category and customer segmentation analysis
+  - Filters and slicers for dynamic exploration
+- Designed visuals for non-technical stakeholders
+
+---
+
+### 4. Reporting & Business Recommendations
+- Summarized findings into a structured project report
+- Created a presentation highlighting:
+  - Key insights
+  - Business implications
+  - Actionable recommendations
+
+---
+
+## Tech Stack
+
+| Category | Tools |
+|--------|------|
+| Programming | Python |
+| Data Analysis | Pandas, NumPy |
+| Database | PostgreSQL / MySQL |
+| Querying | SQL |
+| Visualization | Power BI |
+| Version Control | Git, GitHub |
+
+---
+
+├── Customer_Shopping_Behavior_Analysis.ipynb
+├── customer_behavior_sql_queries.sql
+├── customer_behavior_dashboard.pbix
+├── data/
+└── README.md
+
+## Repository Structure
+
+├── Customer_Shopping_Behavior_Analysis.ipynb
+├── customer_behavior_sql_queries.sql
+├── customer_behavior_dashboard.pbix
+├── data/
+└── README.md
+
+
+---
+
+## How to Run This Project
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/customer-behavior-analysis.git
+cd customer-behavior-analysis
+
