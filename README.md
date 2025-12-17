@@ -15,6 +15,7 @@ The goal of this project is to analyze customer shopping behavior and uncover in
 - Impact of discounts on customer purchases
 - Effect of shipping methods on order value
 - Key drivers of customer loyalty and revenue
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/a7957c5e-b67f-454b-8ceb-69b430000197" />
 
 ---
 
