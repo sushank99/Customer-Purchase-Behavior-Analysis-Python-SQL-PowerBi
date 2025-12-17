@@ -96,8 +96,7 @@ The goal of this project is to analyze customer shopping behavior and uncover in
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/customer-behavior-analysis.git
-cd customer-behavior-analysis
+git clone https://github.com/sushank99/Customer-Purchase-Behavior-Analysis-Python-SQL-PowerBi.git
 ```
 
 ### 2. Run Python Analysis
@@ -146,17 +145,4 @@ If you found this project useful, feel free to star the repository and share it 
 
 
 ---
-
-### ✅ What to do now
-1. Copy everything **inside the code block**
-2. Paste it into your `README.md`
-3. Replace `your-username` with your GitHub username
-
-If you want, I can also:
-- Add **screenshots placeholders**
-- Write a **LinkedIn post** for this project
-- Convert this into **resume bullets**
-- Make a **beginner vs advanced** version
-
-Just say the word 🚀
 
