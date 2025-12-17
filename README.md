@@ -100,46 +100,47 @@ git clone https://github.com/your-username/customer-behavior-analysis.git
 cd customer-behavior-analysis
 ```
 
-2. Run Python Analysis
+### 2. Run Python Analysis
+- Open `Customer_Shopping_Behavior_Analysis.ipynb`
+- Execute all cells to perform:
+  - Data cleaning
+  - Exploratory Data Analysis (EDA)
+  - Loading cleaned data into the database
 
-Open Customer_Shopping_Behavior_Analysis.ipynb
+---
 
-Execute all cells to perform data cleaning, EDA, and database loading
+### 3. Execute SQL Queries
+- Create a database in **PostgreSQL** or **MySQL**
+- Load the cleaned data into the database
+- Run business queries from `customer_behavior_sql_queries.sql`
 
-3. Execute SQL Queries
+---
 
-Create a database in PostgreSQL or MySQL
+### 4. Open Power BI Dashboard
+- Open `customer_behavior_dashboard.pbix`
+- Refresh the database connection
+- Interact with the dashboard to explore insights using filters and visuals
 
-Load the cleaned data
+---
 
-Run queries from customer_behavior_sql_queries.sql
+## Key Learnings
+- Built a real-world, end-to-end data analytics project
+- Strengthened SQL skills for business-driven analysis
+- Designed stakeholder-friendly dashboards in Power BI
+- Learned how to translate data insights into actionable business decisions
 
-4. Open Power BI Dashboard
+---
 
-Open customer_behavior_dashboard.pbix
+## Acknowledgement
+This project was completed as part of hands-on learning inspired by industry-focused data analytics workflows.  
+All analysis, SQL queries, dashboards, and reports were executed independently for portfolio development.
 
-Refresh the database connection
+---
 
-Interact with the dashboard to explore insights
-
-Key Learnings
-
-Built a real-world, end-to-end data analytics project
-
-Strengthened SQL skills for business-driven analysis
-
-Designed stakeholder-friendly dashboards in Power BI
-
-Learned how to convert analysis into actionable business insights
-
-Acknowledgement
-
-This project was implemented as part of hands-on learning inspired by industry-focused data analytics content. All analysis, SQL queries, dashboards, and reports were executed independently for portfolio development.
-
-
-License
-
+## License
 MIT License — free to use, modify, and showcase in personal portfolios.
+
+---
 
 If you found this project useful, feel free to star the repository and share it with others learning data analytics.
 
