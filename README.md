@@ -78,19 +78,15 @@ The goal of this project is to analyze customer shopping behavior and uncover in
 
 ---
 
-├── Customer_Shopping_Behavior_Analysis.ipynb
-├── customer_behavior_sql_queries.sql
-├── customer_behavior_dashboard.pbix
-├── data/
-└── README.md
-
 ## Repository Structure
 
+```text
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_sql_queries.sql
 ├── customer_behavior_dashboard.pbix
 ├── data/
 └── README.md
+
 
 
 ---
