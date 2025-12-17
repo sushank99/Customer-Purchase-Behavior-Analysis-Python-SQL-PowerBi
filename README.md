@@ -102,3 +102,24 @@ The goal of this project is to analyze customer shopping behavior and uncover in
 git clone https://github.com/your-username/customer-behavior-analysis.git
 cd customer-behavior-analysis
 
+2. Run Python Analysis
+
+Open Customer_Shopping_Behavior_Analysis.ipynb
+
+Execute all cells to perform data cleaning, EDA, and database loading
+
+3. Execute SQL Queries
+
+Create a database in PostgreSQL or MySQL
+
+Load the cleaned data
+
+Run queries from customer_behavior_sql_queries.sql
+
+4. Open Power BI Dashboard
+
+Open customer_behavior_dashboard.pbix
+
+Refresh the database connection
+
+Interact with the dashboard to explore insights
