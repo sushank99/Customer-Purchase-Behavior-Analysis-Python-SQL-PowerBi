@@ -86,7 +86,7 @@ The goal of this project is to analyze customer shopping behavior and uncover in
 ├── customer_behavior_dashboard.pbix
 ├── data/
 └── README.md
-
+```
 
 
 ---
